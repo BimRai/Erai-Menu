@@ -1,0 +1,47 @@
+body {
+    background-color: #f8d5b4;
+    margin: 10%;
+}
+
+h1 {
+    color: #444242;
+}
+
+h2 {
+    color: #444242;
+    padding: 10px;
+}
+
+.center-text {
+    text-align: center;
+}
+
+#logo {
+    padding-bottom: 10px;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
+
+h2>span {
+    color: #000dc2;
+    font-size: 0.75em;
+}
+
+#copyright {
+    padding-top: 12px;
+    font-size: 0.75em;
+}
+
+.fa {
+    padding-left: 5px;
+    color: rgb(216, 8, 8);
+}
+
+.firechicken {
+    font-size: small;
+}
+
+strong {
+    letter-spacing: 1.5px;
+}
